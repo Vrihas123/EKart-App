@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E Kart</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile">Contact No (10 digits)</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_retype_password">Retype Password</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_mobile">Enter your contact number</string>
+    <string name="err_msg_mobile_digits">The contact number must be of 10 digits.</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_retype_password">Enter this field</string>
+    <string name="err_msg_confirm_password">This does not match with the password</string>
+</resources>
